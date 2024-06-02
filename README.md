@@ -1,4 +1,4 @@
-![image](https://github.com/KSW-Lovavle-Baby-Owls/Malicious-Drone-Simulator/assets/100981076/0ee386d2-b694-48d0-b24b-4828267722da)# Malicious Drone Simulator(MDS)
+# Malicious Drone Simulator(MDS)
 
 ## What is this?
 
